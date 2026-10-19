@@ -1,0 +1,40 @@
+Package: OtterPFAS
+Type: Package
+Title: Figures and Tables for PFAS in otters
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Martin", "Sköld",
+      email = "martin.skold@nrm.se",
+      role = c("aut", "cre")
+    )
+  )
+Description: This contains figures and tables intended for publication
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends:
+    R (>= 4.1.0)
+Imports:
+    broom,
+    broom.mixed,
+    cenGAM,
+    dplyr (>= 1.1.0),
+    forcats,
+    ggcorrplot,
+    ggplot2 (>= 3.5.0),
+    ggspatial,
+    grid,
+    lme4,
+    mgcv,
+    rnaturalearth,
+    scales,
+    sf,
+    stats,
+    tibble,
+    tidyr,
+    utils
+Suggests:
+    patchwork,
+    targets
+RoxygenNote: 7.3.3
