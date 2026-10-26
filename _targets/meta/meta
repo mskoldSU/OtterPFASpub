@@ -5,7 +5,6 @@ run_proportions|object|cc6a331fb3c0077c
 perch_file|stem|4203f229cccfc08e|db654fe079826848|2c530c1562a7fbd1|1979597919|data/perch.rda|t20532.5032638889s|s18853b|18853|file|local|vector|||0||
 grid_file|stem|668537c0156d718d|84c9b0a4367a72ba|2c530c1562a7fbd1|-1721041302|data/grid.rda|t20741.3594327148s|s908b|908|file|local|vector|||1.109|package 'mgcv' was built under R version 4.5.3. package 'nlme' was built under R version 4.5.3. package 'dplyr' was built under R version 4.5.3. package 'ggplot2' was built under R version 4.5.3. package 'sf' was built under R version 4.5.3. package 'tibble' was built under R version 4.5.3. package 'tidyr' was built under R version 4.5.3|
 pop_densities_file|stem|2b02f61efcd8b5d5|2b25cf61709ed929|2c530c1562a7fbd1|921839958|data/pop_densities.rda|t20742.2698842593s|s122338b|122338|file|local|vector|||0||
-otters_file|stem|29887e67de75ec79|7c9424b1e54f21e9|2c530c1562a7fbd1|-2042329924|data/otters.rda|t20532.5030092593s|s139284b|139284|file|local|vector|||0||
 dk_otters_file|stem|3ccd909862228264|e22c132a3fcc1ecd|2c530c1562a7fbd1|423910919|data/dk_otters.rda|t20532.5030092593s|s3398b|3398|file|local|vector|||0||
 scandinavia_file|stem|c4ec3b5f2557f7a8|6db319048b3795d7|2c530c1562a7fbd1|-1082652624|data/scandinavia.rda|t20532.5031828704s|s43507b|43507|file|local|vector|||0||
 no_otters_file|stem|17e47c6bd25062db|94114f82eaadeb5d|2c530c1562a7fbd1|-1846011538|data/no_otters.rda|t20532.5030092593s|s959b|959|file|local|vector|||0||
@@ -19,7 +18,6 @@ proportions_enabled|stem|e2ff3a7c22e89b8b|09d4ee08bf2af120|b434cbe1db6719b8|1147
 perch|stem|7082feacea04deff|e68a65d59eddc165|e5095a0520e25c16|-376453562||t20742.6341782407s|s23169b|23169|rds|local|vector|||0.125||
 grid|stem|b00575fe86bb89f4|76fccd9f0d260abe|95e69dbc7e701cdb|2138324772||t20745.3014427132s|s589b|589|rds|local|vector|||0||
 pop_densities|stem|5cdd111a96452d4a|45a1ecb81a8d1e8e|651673cb4d576472|-1740400695||t20745.3014432575s|s118234b|118234|rds|local|vector|||0.031||
-otters|stem|a8746e1f9c2c030f|eaeef9948781cb49|993889ab41f4b8f8|222299124||t20742.6341666667s|s150644b|150644|rds|local|vector|||0.156||
 dk_otters|stem|dfec89aa00efd8f8|d0771ac65ae8bd8c|d934884453352f42|-1813310242||t20742.6341782407s|s3047b|3047|rds|local|vector|||0||
 scandinavia|stem|78d554589060398f|1d7ecbc349c5bd10|d546e47ad70fcaf1|1394818409||t20745.3014435936s|s41095b|41095|rds|local|vector|||0.016||
 no_otters|stem|a2806f4ffe211343|3386189479ad4cd9|fda0e4a5efb229ad|-643781687||t20742.6341782407s|s825b|825|rds|local|vector|||0.015||
@@ -29,19 +27,6 @@ PFAS|stem|db730bf16585cd50|dfee8d56858c6ed8|f5814a4dba036277|1465318758||t20745.
 color_groups|stem|6f5ba58133285662|72317b79982ab467|985769181f0eb31e|-984313851||t20742.6341666667s|s108b|108|rds|local|vector|||0.016||
 pop_density|stem|e64cddad4ad00ec0|63be95eee21b25ac|c7aa9384a82cf73d|-2018529872||t20745.3014446727s|s112351b|112351|rds|local|vector|||0.016||
 precipitation|stem|2c20493e6f7fde29|f0b81b0990ec6526|4e41957f3085e785|-283455107||t20745.3014450259s|s30266b|30266|rds|local|vector|||0.016||
-spatial_fits|stem|af6954110f6c9aec|affc8aaa6be7df79|96a3a4b2d097cc68|-38489721||t20742.6342361111s|s8470881b|8470881|rds|local|vector|||5.109||
-perch_long_fit|stem|582d988338127e2b|9cdb73d7579b8283|92cfb1f363aab197|1045640652||t20745.3014463411s|s14633b|14633|rds|local|vector|||0.078||
-figure_1_plot|stem|1ebdd7c6907be992|c3c0187d8167b971|6f6f31a384317f95|164815199||t20745.3014503075s|s736071b|736071|rds|local|vector|||0.203|attribute variables are assumed to be spatially constant throughout all geometries|
-figure_2_plot|stem|3d5dfc265b5fa8eb|09445a1ba169291d|8caba3fe9569b785|625886714||t20745.3014526933s|s717422b|717422|rds|local|vector|||0.031||
-figure_6_plot|stem|fb50dfc8b194d5f1|a78d35b3a9bfaf52|8b7a599c52fd40b0|881403573||t20745.301517034s|s10441702b|10441702|rds|local|vector|||0.968||
-figure_4_plot|stem|8102a907aeb01bee|908db1fe0511a2e7|2c9b9c612c486610|-1072011024||t20745.3015465356s|s45825968b|45825968|rds|local|vector|||0.516||
-figure_3_plot|stem|43f38033f8ccec56|5c387ea50bc57522|e9b9d1ffd0ccbbc5|1403120036||t20745.301584087s|s9202122b|9202122|rds|local|vector|||2.61||
-figure_1_file|stem|f51d6242c89b93d3|e86c268de16f0ad6|d32bc73aa189a924|-1606767652|C:/Users/skold/Nextcloud/Projects/OtterPFAS/figs/figure1.pdf|t20745.3015961557s|s95295b|95295|file|local|vector|||0.968||
-figure_2_file|stem|eda61139897eeee4|3995d56f068d0145|809dee3c9d9bfe0c|-1337910677|C:/Users/skold/Nextcloud/Projects/OtterPFAS/figs/figure2.pdf|t20745.3016002234s|s13872b|13872|file|local|vector|||0.281||
-figure_6_file|stem|4fc61786755a1c40|387394e545485569|3e83799c04cd58ee|-1418793092|C:/Users/skold/Nextcloud/Projects/OtterPFAS/figs/figure6.pdf|t20745.3016303504s|s5755b|5755|file|local|vector|||0.062||
-figure_4_file|stem|ccda393524e032f2|efe8e3cd2d72035c|b2ca7de5aab1e136|1235890089|C:/Users/skold/Nextcloud/Projects/OtterPFAS/figs/figure4.pdf|t20745.3016425714s|s7023b|7023|file|local|vector|||0.156||
-figure_3_file|stem|5ce32799620b7b3b|0e7e61de5e14757d|7fa0d16c0e876728|1761106876|C:/Users/skold/Nextcloud/Projects/OtterPFAS/figs/figure3.pdf|t20745.3016573851s|s19370b|19370|file|local|vector|||1||
-perch_short_fits|stem|4efb1cca0b733387|feb7c1439b509b76|626bb699b29c6ec7|-2082271816||t20745.3308488014s|s1083768b|1083768|rds|local|vector|||0.219||
 fig_temporal_samples|function|7bfc6111dc3dcb21
 fig_perch_boxes|function|f0a151a4e1880721
 fig_spatiotemporal_prop|function|1bd795d7e686bdd2
@@ -54,10 +39,6 @@ fig_prop_violins|function|418ddd803aff4dc9
 fig_perch_samples|function|00d97c273a8a6b50
 fig_prop_boxes|function|1b42b8e73ade787f
 fig_violins|function|562bd40aaae2e29f
-table_s8_fit_summary|stem|73012a4fdfa536eb|e0e55fbbdce34acb|6351f04a8b490f44|-1922461767||t20745.3320002616s|s725b|725|rds|local|vector|||0.172||
-table_s8_diagnostics|stem|47b335973abe2100|675d1ae4a1fe5c96|91596390c11d33a5|1670606569||t20745.332002757s|s699b|699|rds|local|vector|||0.078||
-table_s7|stem|cf47242c942e9395|04d1f3f663fa031b|d369a29f24b4abe3|-230414303||t20745.3320188477s|s857b|857|rds|local|vector|||1.297||
-table_s6|stem|1747fa17b8208eb8|28656612d2bf2924|45d2699d81c8be7b|-631876306||t20745.332021267s|s974b|974|rds|local|vector|||0.125||
 table_s8|stem|0ffa6ec243818844|f42826e12ca82999|21e5d668fe29c136|91590729||t20745.3320214638s|s759b|759|rds|local|vector|||0||
 table_s7_file|stem|8283dbee37cfdc97|1e76de1f6f83afec|bab41f7daec3ac38|185969358|C:/Users/skold/Nextcloud/Projects/OtterPFAS/tables/table_s7.csv|t20745.3320216317s|s1185b|1185|file|local|vector|||0||
 table_s6_file|stem|3a0ad4a0249d40a4|d240560c8899558f|f284cfaca8630fe5|-1572670267|C:/Users/skold/Nextcloud/Projects/OtterPFAS/tables/table_s6.csv|t20745.3320218632s|s2591b|2591|file|local|vector|||0||
@@ -65,12 +46,9 @@ table_s8_file|stem|ca48240efba3ee1c|bbe89d42119eee3c|0d32d1109374ab7c|1709104146
 proportion_bootstrap_enabled|stem|e2ff3a7c22e89b8b|6ac9d1103a372876|9ae8c4eaaaf272dc|1105306842||t20745.3457282056s|s48b|48|rds|local|vector|||1.031|package 'mgcv' was built under R version 4.5.3. package 'nlme' was built under R version 4.5.3. package 'dplyr' was built under R version 4.5.3. package 'ggplot2' was built under R version 4.5.3. package 'sf' was built under R version 4.5.3. package 'tibble' was built under R version 4.5.3. package 'tidyr' was built under R version 4.5.3|
 proportion_bootstrap_repetitions|stem|d3c01352d553bb72|711335d5ebf8bcb4|aacadc51d24b1c52|-930218844||t20745.3457285065s|s50b|50|rds|local|vector|||0||
 proportion_comparisons|stem|201d534cbbc4541a|205575213d3ce41a|072e632584a1825d|818923077||t20742.6345601852s|s384b|384|rds|local|vector|||0||
-proportion_data|stem|63f3fd888a6bdefd|a89f07c88ee38182|85cb64c8614dfbcd|-405453603||t20742.6345601852s|s19962b|19962|rds|local|vector|||0.016||
 proportion_fits|stem|e5a0db47b32596c3|287331417c6781a3|18b42b973dc0dae0|1338588624||t20742.6345601852s|s1424166b|1424166|rds|local|vector|||0.203||
 proportion_bootstrap|stem|fd0a57072a41eb19|550da3418d762efe|cfbf0821da5d14c9|1423719260||t20745.3457290045s|s44b|44|rds|local|vector|||0||
-figure_5_plot|stem|29edb005e5466046|88004c2db166068e|9f56038884f24aa5|-1164081487||t20745.3457970117s|s47091596b|47091596|rds|local|vector|||2.734||
 proportion_trends|stem|491738681f08b803|f1f428fb9c1da55a|90cff139177285d4|939721191||t20742.6345833333s|s4279b|4279|rds|local|vector|||0.5||
-figure_5_file|stem|6fd20799836ae5a4|0750a046b866f321|4a01f42eb7d89fd9|1207297741|C:/Users/skold/Nextcloud/Projects/OtterPFAS/figs/figure5.pdf|t20745.34584225s|s525616b|525616|file|local|vector|||2.437||
 figure_7_plot|stem|35d01255e658a1aa|61a529fd6ed6af56|790f7df3073454e7|1785510279||t20745.3458460443s|s375789b|375789|rds|local|vector|||0.125||
 figure_7_file|stem|a9efeb8be112351e|9ab784d91d56fd19|6e23efec5b2ca3d9|1405792924|C:/Users/skold/Nextcloud/Projects/OtterPFAS/figs/figure7.pdf|t20745.3458501691s|s6110b|6110|file|local|vector|||0.265|No shared levels found between `names(values)` of the manual scale and the data's fill values.|
 fig_proportion_trends|function|6cffe22bb3c5924c
@@ -104,3 +82,25 @@ save_plot|function|c946154c84ec2db2
 tab_otter_fits|function|0a5ecb5ef70ca58b
 predict_proportion_trends|function|e05de7cd490f5963
 bootstrap_proportion_trends|function|b7db4e091ab843da
+otters_file|stem|df0c00254b2e0982|7c9424b1e54f21e9|2c530c1562a7fbd1|-2042329924|data/otters.rda|t20752.5516915569s|s72962b|72962|file|local|vector|||1.375|package 'mgcv' was built under R version 4.5.3. package 'nlme' was built under R version 4.5.3. package 'dplyr' was built under R version 4.5.3. package 'ggplot2' was built under R version 4.5.3. package 'sf' was built under R version 4.5.3. package 'tibble' was built under R version 4.5.3. package 'tidyr' was built under R version 4.5.3|
+otters|stem|5a5e75835235be25|eaeef9948781cb49|336808b2f95d5276|222299124||t20752.5519626067s|s72939b|72939|rds|local|vector|||0||
+proportion_data|stem|63f3fd888a6bdefd|a89f07c88ee38182|76f08833107ae86f|-405453603||t20752.5519633591s|s19962b|19962|rds|local|vector|||0.031||
+perch_long_fit|stem|582d988338127e2b|9cdb73d7579b8283|b09a61053bc3c982|1045640652||t20752.5519642679s|s14633b|14633|rds|local|vector|||0.047||
+perch_short_fits|stem|01d6d097511d038c|feb7c1439b509b76|7509c875fcb513fc|-2082271816||t20752.5519809184s|s1004179b|1004179|rds|local|vector|||0.922||
+spatial_fits|stem|504beca56797a385|affc8aaa6be7df79|dc833adfc70ae2e1|-38489721||t20752.5521118478s|s8239790b|8239790|rds|local|vector|||10.719||
+figure_1_plot|stem|8c556f0a2fd94eaf|c3c0187d8167b971|031c624461207da8|164815199||t20752.5521196795s|s657167b|657167|rds|local|vector|||0.422|attribute variables are assumed to be spatially constant throughout all geometries|
+figure_2_plot|stem|48f6da5f32053cac|09445a1ba169291d|aa84e5a700c1ce1f|625886714||t20752.5521243865s|s533761b|533761|rds|local|vector|||0.141||
+table_s8_fit_summary|stem|73012a4fdfa536eb|e0e55fbbdce34acb|dd275429f6be3220|-1922461767||t20752.5521352242s|s725b|725|rds|local|vector|||0.703||
+table_s8_diagnostics|stem|47b335973abe2100|675d1ae4a1fe5c96|5774e8003d7743e8|1670606569||t20752.5521419848s|s699b|699|rds|local|vector|||0.312||
+figure_6_plot|stem|d206e9144dfef019|a78d35b3a9bfaf52|c6a7380d26945839|881403573||t20752.5521773804s|s10213867b|10213867|rds|local|vector|||2.078||
+table_s7|stem|cf47242c942e9395|04d1f3f663fa031b|2a2cac0c6ab12527|-230414303||t20752.5522030861s|s857b|857|rds|local|vector|||2.062||
+figure_4_plot|stem|d092aa0ddb49e62e|908db1fe0511a2e7|cb02bbb0049f12ca|-1072011024||t20752.5522515853s|s44656633b|44656633|rds|local|vector|||0.562||
+figure_5_plot|stem|86dce28c0d59e8f4|88004c2db166068e|9840c48c04593178|-1164081487||t20752.5523364419s|s45527792b|45527792|rds|local|vector|||3.797||
+table_s6|stem|1747fa17b8208eb8|28656612d2bf2924|106220ded59ccbc2|-631876306||t20752.5523423389s|s974b|974|rds|local|vector|||0.329||
+figure_3_plot|stem|b68d7e26d59ea721|5c387ea50bc57522|a1cffc97990c4494|1403120036||t20752.5524060141s|s8974941b|8974941|rds|local|vector|||4.375||
+figure_1_file|stem|920260081feff138|e86c268de16f0ad6|4375fff346b334b3|-1606767652|C:/Users/skold/Nextcloud/Projects/OtterPFASpub/figs/figure1.pdf|t20752.5524179961s|s95295b|95295|file|local|vector|||0.921||
+figure_2_file|stem|2bf40b3f32f76f6d|3995d56f068d0145|bc7052b7d09a93fc|-1337910677|C:/Users/skold/Nextcloud/Projects/OtterPFASpub/figs/figure2.pdf|t20752.5524287805s|s13872b|13872|file|local|vector|||0.812||
+figure_6_file|stem|6019c6ce7ee4e2bf|387394e545485569|3b59f6b0073ded7a|-1418793092|C:/Users/skold/Nextcloud/Projects/OtterPFASpub/figs/figure6.pdf|t20752.5524337135s|s5755b|5755|file|local|vector|||0.188||
+figure_4_file|stem|4ed9417ef75ad151|efe8e3cd2d72035c|5f2fe3ac3a5974e8|1235890089|C:/Users/skold/Nextcloud/Projects/OtterPFASpub/figs/figure4.pdf|t20752.5524553804s|s7023b|7023|file|local|vector|||0.313||
+figure_5_file|stem|55ab78bf69077d38|0750a046b866f321|6dafe5e60238a8c9|1207297741|C:/Users/skold/Nextcloud/Projects/OtterPFASpub/figs/figure5.pdf|t20752.552519308s|s525616b|525616|file|local|vector|||3.953||
+figure_3_file|stem|a57cd108f371c0ec|0e7e61de5e14757d|b55a984c48de339e|1761106876|C:/Users/skold/Nextcloud/Projects/OtterPFASpub/figs/figure3.pdf|t20752.5525509476s|s19370b|19370|file|local|vector|||2.375||

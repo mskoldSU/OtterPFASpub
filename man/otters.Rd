@@ -5,7 +5,7 @@
 \alias{otters}
 \title{Swedish otter PFAS observations}
 \format{
-A tibble with 6,470 rows and 30 columns.
+A tibble with 6,470 rows and 15 columns.
 }
 \usage{
 otters

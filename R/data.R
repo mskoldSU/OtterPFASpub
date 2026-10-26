@@ -3,7 +3,7 @@
 #' Cleaned individual-level otter measurements and associated biological,
 #' geographic, and PFAS variables used in the manuscript analyses.
 #'
-#' @format A tibble with 6,470 rows and 30 columns.
+#' @format A tibble with 6,470 rows and 15 columns.
 #' @keywords datasets
 "otters"
 
